@@ -9,7 +9,9 @@ Desafios de HTML da Rocketseat.
 
 O intuito é praticar habilidades em HTML através da série de desafios propostos no curso. 
 
-[Link para as instruções](https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229) 
+<p><a href='https://efficient-sloth-d85.notion.site/Desafios-HTML-ed0f6368d34d44ffab92686b9dc93229' target='_blank'>Link para as instruções</a></p> 
+
+Projetos desenvolvidos: 
 
 <details>
     <summary>1. Glossário</summary>
