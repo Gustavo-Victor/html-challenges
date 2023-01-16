@@ -55,4 +55,4 @@ Projetos desenvolvidos:
 
 <hr>
 
-by [Gustavo Victor](@Gustavo-Victor)
+by [Gustavo Victor](https://github.com/Gustavo-Victor)
